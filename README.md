@@ -124,6 +124,12 @@ The following Python packages were used and their documentation can be found at 
 * [matplotlib](https://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
 
-<h3>Link to source code in Github</h3> 
-<a href= "https://github.com/lakshmi2688/COVID_Impact_on_US_Households">Source code</a>
+
+<h3>Unknowns and dependencies</h3>
+<p>These data are experimental and samples may not be representative of the population. </p>
+
+
+<h2><strong>Known issues/considerations</strong></h2>
+<p>Impact of Harassment on User Retention uses observational data to study how newcomers behave after being harassed. In the future, the project will be extended to non-newcomers</p> 
+<p>More details in the link <a href='https://meta.wikimedia.org/wiki/Research:Detox'>Research:Detox site</a></p>
 
