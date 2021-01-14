@@ -17,6 +17,24 @@
     <li>Explore relationships between worker demographics and labeling behavior</li>
     <li>How consistent are labelling behaviors among workers with different demographic profiles? For example, are female-identified labelers more or less likely to label comments as aggressive than male-identified labelers?</li>
     <li>If the labelling behaviors are different, what are some possible causes and consequences of this difference?</li></ul>
+    
+<h3>Repository structure</h3>
+
+```
+├── README.md
+├── LICENSE
+├── assets
+│   └── images
+└── src
+    ├── Sentiment Analysis and Bias in Data.ipynb
+```
+
+| File       | Description    |
+| :------------- | :----------  | 
+|LICENSE | Code license |
+|README.md | This readme |
+|assets/images/ | Directory containing the various images displayed in the analysis notebook |
+|src/Sentiment Analysis and Bias in Data.ipynb.ipynb | Contains the report and analysis code/visualizations |
 
 <h2>License</h2>
 <p>All data collected or generated for this project is available under free licenses on <a href='https://figshare.com/projects/Wikipedia_Talk/16731'>Figshare</a>, per <a href='https://meta.wikimedia.org/wiki/Open_access_policy'>open access policy</a>. These datasets are released under a <a href='https://wiki.creativecommons.org/wiki/CC0'>CC0 public domain dedication.</a> If you're using this data in your research, please provide attribution via the recommended citation below. </p>
