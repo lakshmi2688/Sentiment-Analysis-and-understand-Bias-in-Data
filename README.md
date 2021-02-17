@@ -1,5 +1,5 @@
 
-<h1>Sentiment Analysis and understand the potential sources of Bia in the data</h1>
+<h1>Sentiment Analysis and understand the potential sources of Bias in the data</h1>
 
 <h2><strong> Goal</strong></h2>
 <p>The goal of this project is to predict the sentiment of Wikipedia discussion comments and identify any sources of bias that may exist in the datasets, and to develop testable hypotheses about how these biases might impact the behavior of machine learning models trained on the data extracted from these datasets, when those models are used for research purposes or to power data-driven applications. </p>
